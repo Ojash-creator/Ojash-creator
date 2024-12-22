@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Full-Stack Web Development, Data Structures & Algorithms, and exploring Machine Learning**.
 - 💞️ I’m looking to collaborate on **Open Source Projects, Web Development Projects, and Coding Challenges**.
 - 📫 How to reach me: **You can contact me via email at mr.ojashttam@gmail.com**
-- 😄 Pronouns: **He/Him**.
+- 😄 Pronouns: 
 - ⚡ Fun fact: **I love solving puzzles and coding challenges during my free time.**
 
 <!---
